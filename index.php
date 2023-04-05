@@ -80,7 +80,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 <div class="bauer-container" id="site-header-inner">
 <div class="wrap-inner">
 <div id="site-logo">
-<div id="site-logo-inner" style="max-width:135px;"><a class="main-logo" href="../index.html" rel="home" title="HEBRON ADVENTURES AND TOURS"><img alt="HEBRON ADVENTURES AND TOURS" src="../wp-content/uploads/2020/02/i.png" /></a></div>
+<div id="site-logo-inner" style="max-width:135px;"><a class="main-logo" href="../index.html" rel="home" title="Aspilia African Safaris"><img alt="Aspilia African Safaris" src="../wp-content/uploads/2020/02/i.png" /></a></div>
 </div>
 <!-- #site-logo -->
 
@@ -142,7 +142,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 <h2 class="widget-title"><span>Overview</span></h2>
 
 <div class="textwidget">
-<p>Hebron Adventures and Tours has been trusted for all years of experience that it has been operating in Tours and Safaris not only because we have a great team of partners that we work with closely and make sure our clients get their money&rsquo;s worth of service</p>
+<p>Aspilia African Safaris has been trusted for all years of experience that it has been operating in Tours and Safaris not only because we have a great team of partners that we work with closely and make sure our clients get their money&rsquo;s worth of service</p>
 </div>
 </div>
 
@@ -200,7 +200,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 <div class="bauer-container">
 <div class="bottom-bar-inner-wrap">
 <div class="bottom-bar-copyright">
-<div id="copyright">&copy; Arusha Web Desgin. All rights reserved.</div>
+<div id="copyright">&copy; <?php echo date("Y")?> Aspilia African Safaris | All rights reserved.</div>
 </div>
 <!-- /.bottom-bar-copyright -->
 

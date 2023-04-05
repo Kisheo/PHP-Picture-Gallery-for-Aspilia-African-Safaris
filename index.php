@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head><meta charset="utf-8"><meta name="viewport" content="width=device-width">
 	<link href="https://gmpg.org/xfn/11" rel="profile" />
-	<title>SAFARI &ndash; HEBRON ADVENTURES AND TOURS</title>
+	<title>GALLERY &ndash; ASPILIA AFRICAN SAFARIS</title>
 	<style data-type="vc_shortcodes-custom-css" type="text/css">.vc_custom_1558852808417{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852781310{background-color: #f7f9fa !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852808417{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852781310{background-color: #f7f9fa !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852808417{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852781310{background-color: #f7f9fa !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852808417{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852781310{background-color: #f7f9fa !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852808417{background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}.vc_custom_1558852781310{background-color: #f7f9fa !important;background-position: center !important;background-repeat: no-repeat !important;background-size: cover !important;}
 	</style>
 	<link href="http://maps.googleapis.com/" rel="dns-prefetch" />
@@ -10,7 +10,7 @@
 	<link href="http://s.w.org/" rel="dns-prefetch" />
 	<link href="../feed/index.html" rel="alternate" title="HEBRON ADVENTURES AND TOURS &amp;raquo; Feed" type="application/rss+xml" />
 	<link href="../comments/feed/index.html" rel="alternate" title="HEBRON ADVENTURES AND TOURS &amp;raquo; Comments Feed" type="application/rss+xml" /><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/hebronadventures.co.tz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.10"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/aspilia.co.tz\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.3.10"}};
 			!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode;p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0);e=i.toDataURL();return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(!p||!p.fillText)return!1;switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(n=t.source||{}).concatemoji?c(n.concatemoji):n.wpemoji&&n.twemoji&&(c(n.twemoji),c(n.wpemoji)))}(window,document,window._wpemojiSettings);
 		</script>
 	<style type="text/css">img.wp-smiley,
@@ -47,7 +47,7 @@ img.emoji {
 	<link href="../wp-content/themes/bauer/assets/css/fontawesome5597.css?ver=5.0" id="fontawesome-css" media="all" rel="stylesheet" type="text/css" />
 	<link href="../wp-content/themes/bauer/assets/css/eleganticons8a54.css?ver=1.0.0" id="eleganticons-css" media="all" rel="stylesheet" type="text/css" />
 	<link href="../wp-content/themes/bauer/assets/css/basicui8a54.css?ver=1.0.0" id="basicui-css" media="all" rel="stylesheet" type="text/css" /><!--[if lt IE 9]>
-<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://hebronadventures.co.tz/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
+<link rel='stylesheet' id='vc_lte_ie9-css'  href='https://aspilia.co.tz/wp-content/plugins/js_composer/assets/css/vc_lte_ie9.min.css?ver=6.0.5' type='text/css' media='screen' />
 <![endif]-->
 	<link href="../wp-content/plugins/wprt-addons/assets/owl.carousel77e6.css?ver=2.2.1" id="bauer-owlcarousel-css" media="all" rel="stylesheet" type="text/css" />
 	<link href="../wp-content/plugins/wprt-addons/assets/cubeportfolio.min6b00.css?ver=3.4.0" id="bauer-cubeportfolio-css" media="all" rel="stylesheet" type="text/css" />
@@ -55,7 +55,7 @@ img.emoji {
 	<link href="../wp-content/plugins/wprt-addons/assets/vegas254d.css?ver=2.3.1" id="bauer-vegas-css" media="all" rel="stylesheet" type="text/css" />
 	<link href="../wp-content/plugins/wprt-addons/assets/ytplayer5b75.css?ver=3.0.2" id="bauer-ytplayer-css" media="all" rel="stylesheet" type="text/css" /><script type='text/javascript' src='../wp-includes/js/jquery/jquery4a5f.js?ver=1.12.4-wp'></script><script type='text/javascript' src='../wp-includes/js/jquery/jquery-migrate.min330a.js?ver=1.4.1'></script><script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/revolution.tools.minf049.js?ver=6.0'></script><script type='text/javascript' src='../wp-content/plugins/revslider/public/assets/js/rs6.minb5e1.js?ver=6.1.5'></script><script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min44fd.js?ver=2.70'></script><script type='text/javascript'>
 /* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/hebronadventures.co.tz","is_cart":"","cart_redirect_after_add":"no"};
+var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"http:\/\/aspilia.co.tz","is_cart":"","cart_redirect_after_add":"no"};
 /* ]]> */
 </script><script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.minf3c8.js?ver=3.9.4'></script><script type='text/javascript' src='../wp-content/plugins/js_composer/assets/js/vendors/woocommerce-add-to-cart52c7.js?ver=6.0.5'></script><script type='text/javascript' src='https://maps.googleapis.com/maps/api/js?ver=v3'></script>
 	<link href="../wp-json/index.html" rel="https://api.w.org/" />
@@ -63,8 +63,8 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 	<link href="../wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml" /><meta name="generator" content="WordPress 5.3.10" /><meta name="generator" content="WooCommerce 3.9.4" />
 	<link href="index.html" rel="canonical" />
 	<link href="../index76e4.html?p=2288" rel="shortlink" />
-	<link href="../wp-json/oembed/1.0/embed4dea.json?url=http%3A%2F%2Fhebronadventures.co.tz%2Fsafari%2F" rel="alternate" type="application/json+oembed" />
-	<link href="../wp-json/oembed/1.0/embed7236?url=http%3A%2F%2Fhebronadventures.co.tz%2Fsafari%2F&amp;format=xml" rel="alternate" type="text/xml+oembed" />
+	<link href="../wp-json/oembed/1.0/embed4dea.json?url=http%3A%2F%2Faspilia.co.tz%2Fsafari%2F" rel="alternate" type="application/json+oembed" />
+	<link href="../wp-json/oembed/1.0/embed7236?url=http%3A%2F%2Faspilia.co.tz%2Fsafari%2F&amp;format=xml" rel="alternate" type="text/xml+oembed" />
 	<link href="../wp-content/uploads/2020/02/fa.png" rel="shortcut icon" type="image/x-icon" /><noscript><style>.woocommerce-product-gallery{ opacity: 1 !important; }</style></noscript>
 	<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}
 	</style>
@@ -101,7 +101,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9444" id="menu-item-9444"><a href="../mountain-2/index.html"><span>MOUNTAIN</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10032" id="menu-item-10032"><a href="../cultural/index.html"><span>CULTURAL</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9470" id="menu-item-9470"><a href="../itineraries-2/index.html"><span>ITINERARIES</span></a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9470"><a href="https://hebronadventures.co.tz/gallery"><span>GALLERY</span></a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-9470"><a href="https://aspilia.co.tz/gallery"><span>GALLERY</span></a></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1372" id="menu-item-1372"><a href="../contact-us/index.html"><span>CONTACT</span></a></li>
 </ul>
 </nav>
@@ -169,7 +169,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 	<li style=""><a href="../itineraries-2/index.html" style="">Itineraries </a></li>
 	<li style=""><a href="../mountain-2/index.html" style="">Mountain </a></li>
 	<li style=""><a href="index.html" style="">Safaris </a></li>
-	<li style=""><a href="https://hebronadventures.co.tz/gallery">Gallery</a></li>
+	<li style=""><a href="https://aspilia.co.tz/gallery">Gallery</a></li>
 </ul>
 </div>
 </div>
@@ -182,7 +182,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 	<li class="hour  accent-icon" style="margin-bottom:10px;"><span style="">Mon - Sat 8.00am 6.00pm</span></li>
 	<li class="address  accent-icon" style="margin-bottom:10px;"><span style="">452 Arusha, Tanzania</span></li>
 	<li class="phone  accent-icon" style="margin-bottom:10px;"><span style="">+255754 474 880 / +255710729270</span></li>
-	<li class="email  accent-icon" style="margin-bottom:10px;"><span style="">info@hebronadventures.co.tz</span></li>
+	<li class="email  accent-icon" style="margin-bottom:10px;"><span style="">info@aspilia.co.tz</span></li>
 </ul>
 </div>
 </div>
@@ -200,7 +200,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 <div class="bauer-container">
 <div class="bottom-bar-inner-wrap">
 <div class="bottom-bar-copyright">
-<div id="copyright">&copy;Arusha Web Desgin. All rights reserved.</div>
+<div id="copyright">&copy; Arusha Web Desgin. All rights reserved.</div>
 </div>
 <!-- /.bottom-bar-copyright -->
 
@@ -220,7 +220,7 @@ var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_ur
 </body>
 <link href="http://fonts.googleapis.com/css?family=Cabin%3A100%2C200%2C300%2C400%2C500%2C600%2C700%2C800%2C900100italic%2C200italic%2C300italic%2C400italic%2C500italic%2C600italic%2C700italic%2C800italic%2C900italic&amp;subset=latin&amp;ver=5.3.10" id="bauer-google-font-cabin-css" media="all" rel="stylesheet" type="text/css" /><script type='text/javascript'>
 /* <![CDATA[ */
-var wpcf7 = {"apiSettings":{"root":"http:\/\/hebronadventures.co.tz\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
+var wpcf7 = {"apiSettings":{"root":"http:\/\/aspilia.co.tz\/wp-json\/contact-form-7\/v1","namespace":"contact-form-7\/v1"},"cached":"1"};
 /* ]]> */
 </script><script type='text/javascript' src='../wp-content/plugins/contact-form-7/includes/js/scriptsb62d.js?ver=5.1.6'></script><script type='text/javascript' src='../wp-content/plugins/woocommerce/assets/js/js-cookie/js.cookie.min6b25.js?ver=2.1.4'></script><script type='text/javascript'>
 /* <![CDATA[ */
